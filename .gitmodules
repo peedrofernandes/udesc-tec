@@ -1,0 +1,6 @@
+[submodule "turing-machine"]
+	path = turing-machine
+	url = https://github.com/selmin01/Turing_machine
+[submodule "turing-machine-personal"]
+	path = turing-machine-personal
+	url = https://github.com/peedrofernandes/turing-machine
